@@ -1,0 +1,23 @@
+<div class="service-list">
+    <div class="service">
+        <h3>3D Визуализация</h3>
+        <p>Создание фотореалистичных 3D-моделей вашего проекта.(Не больше 6 комнат)</p>
+        <p>Стоимость: $40</p>
+        <button class="order-button">Заказать</button>
+        <button class="cart-button">Добавить в корзину</button>
+    </div>
+    <div class="service">
+        <h3>Дизайн Интерьера</h3>
+        <p>Проектирование стильных и функциональных интерьеров под ваши нужды.(1 комната)</p>
+        <p>Стоимость: $15</p>
+        <button class="order-button">Заказать</button>
+        <button class="cart-button">Добавить в корзину</button>
+    </div>
+    <div class="service">
+        <h3>Разработка 3D Чертежей</h3>
+        <p>3D планы с верху.(смотря на размер)</p>
+        <p>Стоимость: $30</p>
+        <button class="order-button">Заказать</button>
+        <button class="cart-button">Добавить в корзину</button>
+    </div>
+</div>
